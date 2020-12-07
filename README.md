@@ -57,4 +57,5 @@ python train.py
 python detect.py in.jpg weights.npz out.jpg
 ```
 > in and out are the image that you want to predict the sequence and show the results.
+
 -----|-----------|-----------|-----------|-----------|-----------|-----------|-----------|------
